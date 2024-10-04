@@ -1,1 +1,1 @@
-This repository contains the assignments for FCS cycle 57 for Manuella Germanos# FCS-Assignment2
+This repository contains the assignments for FCS cycle 57 for Insaf Turkmani# FCS-Assignment2
